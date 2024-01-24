@@ -1,0 +1,17 @@
+* {
+  background-color: rgb(255, 231, 200);
+}
+
+em {
+  background-color: rgba(250, 192, 117, 0.638);
+}
+
+button {
+  background-color: rgb(248, 232, 112);
+}
+
+button a {
+  background-color: rgb(248, 232, 112);
+  color: black;
+  font-weight: 700;
+}
